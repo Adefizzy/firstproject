@@ -1,0 +1,189 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #FDCD3B;
+    font-family: 'Montserrat', sans-serif;
+
+}
+ #container{
+
+    margin: 0 auto;
+    width:70%;
+    height:900px;
+    background-color: #FFFFFF;
+    padding: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#box{
+    background-color: #292929;
+    opacity: 0.6;
+    margin: 0px;
+    height: 500px;
+
+}
+#top-section{
+
+    background-image: url(images/top_image1.png);
+    height: 500px
+
+
+}
+.myName{
+
+    font-size: 50px;
+    margin: 0px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.welcomeNote{   
+    position: relative;
+    top: -390px;
+    left: 300px;
+}
+.welcomeMessage{
+    font-size: 15px;
+    font-weight: lighter;
+    color: aliceblue;
+    position: relative;
+    top: -370px;
+    left: 300px;
+    text-align: center;
+    width: 300px;
+
+
+
+}
+.second_container{
+
+    display: flex;
+
+}
+.second_container div{
+
+    padding: 10px;
+    text-align: center;
+
+}
+.second_container div p{
+
+    color:#93A4AA;
+    font-size: 15px;
+    font-weight: 100;
+
+}
+h3{
+
+    font-weight: bolder;
+    font-size: 20px;
+    color: #2A3A3F;
+}
+
+.heading{
+
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    padding-top: 10px;
+    color: #2A3A3F;
+
+}
+#footer{
+
+
+    background-color: #2A3A3F;
+    height: 140px;
+    width: 70%;
+    margin: 0 auto;
+    position: relative;
+    bottom: -900px;
+
+}
+#hire{
+
+    position: relative;
+    top: -350px;
+    left: 390px;
+    border-radius: 30px;
+    padding: 10px;
+    font-size: 20px;
+    display: inline-block; 
+    border-color: #FDCD3B;
+    border-width: 2px;
+    border-style: solid;
+    width: 120px;
+    text-align: center;
+    color: aqua;
+}
+#hire:hover{
+
+    background-color:#FDCD3B;
+    border-radius: 30px;
+    color: #2A3A3F;
+}
+#icons{
+    position: relative;
+    top: 60px;
+    left: 430px;
+
+}
+#facebook{
+
+    width: 20px;
+    height: auto;
+}
+#twitter{
+
+    width: 24.03px;
+    height: auto;
+    position: relative;
+    top: 3px;
+}
+#linkedin{
+
+    width: 20px;
+    height: auto;
+}
+#projects{
+    
+    background-color: #EEEEEE;
+    height: auto;
+    width: 100%;
+    
+}
+.project_img{
+    
+    width: 200px;
+    height: auto;
+    margin: 0 0 0 20px;
+}
+#note1{
+    
+    color: #93A4AA;
+}
+#questionApp{
+    position: relative;
+    bottom: 250px;
+    left:250px;
+    width: 200px;
+    text-align: center;
+}
+#soccerApp{
+    
+    position: relative;
+    right: -700px;
+    top:-150px;
+    
+}
+#note{
+    color: #93A4AA;
+}
+#soccerCounter{
+    position: relative;
+    bottom: 400px;
+    width: 200px;
+    left:450px;
+    text-align: center;
+    
+}
+        
